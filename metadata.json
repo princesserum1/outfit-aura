@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Aura Outfit",
+  "description": "Premium Pakistani fashion brand dedicated to providing stylish, comfortable, and affordable clothing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
